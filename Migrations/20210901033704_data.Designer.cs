@@ -10,8 +10,8 @@ using Product_Inventory_MVC.Models;
 namespace Product_Inventory_MVC.Migrations
 {
     [DbContext(typeof(Product_Inventory_MVCIdentityContext))]
-    [Migration("20210823084658_first")]
-    partial class first
+    [Migration("20210901033704_data")]
+    partial class data
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

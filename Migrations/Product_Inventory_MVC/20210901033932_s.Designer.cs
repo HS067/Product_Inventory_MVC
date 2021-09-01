@@ -9,8 +9,8 @@ using Product_Inventory_MVC.Models;
 namespace Product_Inventory_MVC.Migrations.Product_Inventory_MVC
 {
     [DbContext(typeof(Product_Inventory_MVCContext))]
-    [Migration("20210823084609_second")]
-    partial class second
+    [Migration("20210901033932_s")]
+    partial class s
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
